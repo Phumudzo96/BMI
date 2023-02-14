@@ -1,6 +1,6 @@
 # BMI
 
-reate a program that calculates a person's BMI
+Create a program that calculates a person's BMI
 
 Ask the user to enter their weight in kg and their height in m
 
